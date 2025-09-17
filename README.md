@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Data Scientist from India. Currently studying my Bachelor degree in Artificial Intellegence & Data Science and in my free time I would like to Editing some Images & Videos </h3>
 
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://github.com/Sreekanth-2518/Sreekanth-2518/blob/main/Register%20-%20Login.gif">
 
 ---
 
