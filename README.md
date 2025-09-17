@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sreekanth-2518](https://https://github.com/Sreekanth-2518)  
 - 💬 Ask me about **Java , Python & Machine Learning**  
-- 📫 How to reach me **slauersreekanth@gmail.com**
+- 📫 How to reach me **slayersreekanth@gmail.com**
 
 ---
 
