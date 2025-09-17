@@ -11,7 +11,7 @@
 
 ---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Suriya-Panneerselvam](https://github.com/Suriya-Panneerselvam)  
+- 👨‍💻 All of my projects are available at [https://github.com/Suriya-Panneerselvam](https://https://github.com/Sreekanth-2518)  
 - 💬 Ask me about **Java , Python & Machine Learning**  
 - 📫 How to reach me **suriyapanneerselvam12015@gmail.com**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/suriya._.81/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_.gu_weiyi._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/suriya-panneerselvam-14b8322a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
