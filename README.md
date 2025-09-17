@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Suriya</h1>
+<h1 align="center">Hey Everyone 👋, I'm Sreekanth</h1>
 
 <div align="center">
   <img src="" alt="Banner">
