@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Sreekanth</h1>
 
 <div align="center">
-  <img src="" alt="Banner">
+  <img src="https://github.com/Sreekanth-2518/Sreekanth-2518/blob/main/Black%20Grey%20Sleek%20Scrapbook%20General%20Linkedin%20Banner.png" alt="Banner">
 </div>
 
 <h3 align="center">A passionate Data Scientist from India. Currently studying my Bachelor degree in Artificial Intellegence & Data Science and in my free time I would like to Editing some Images & Videos </h3>
