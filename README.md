@@ -4,10 +4,10 @@
   <img src="" alt="Banner">
 </div>
 
-<h3 align="center">A passionate Designer & Data Scientist from India. Currently studying my Bachelor degree in Artificial Intellegence & Data Science and in my free time I would like to Draw some portraits & Paintings </h3>
+<h3 align="center">A passionate Data Scientist from India. Currently studying my Bachelor degree in Artificial Intellegence & Data Science and in my free time I would like to Editing some Images & Videos </h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/Iron%20Man%20GIF.gif">
+<img align="right" alt="Coding" width="400" src="">
 
 ---
 
