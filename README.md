@@ -47,10 +47,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 <!-- Programming Languages Card -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARUNNG2004&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ARUNNG2004" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARUNNG2004&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sreekanth-2518" /></p>
 
 <!-- GitHub Stats Card -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ARUNNG2004&show_icons=true&locale=en&theme=tokyonight" alt="ARUNNG2004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sreekanth-2518&show_icons=true&locale=en&theme=tokyonight" alt="Sreekanth-2518" /></p>
 ---
 ### 👨‍💼 About Me
 <h3 align="center">B.Tech Arificial Intelligence & Data Science Final year Student . Intrested in the domain of Designing & Data Science  &  Open to Collaboration</h3>
