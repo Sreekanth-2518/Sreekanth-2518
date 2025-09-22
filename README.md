@@ -53,4 +53,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sreekanth-2518&show_icons=true&locale=en&theme=tokyonight" alt="Sreekanth-2518" /></p>
 ---
 ### 👨‍💼 About Me
-<h3 align="center">B.Tech Arificial Intelligence & Data Science Final year Student . Intrested in the domain of Designing & Data Science  &  Open to Collaboration</h3>
+<h3 align="center">B.Tech Arificial Intelligence & Data Science Final year Student . Intrested in the domain of Data Science  &  Open to Collaboration</h3>
