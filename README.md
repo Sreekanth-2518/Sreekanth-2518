@@ -38,7 +38,7 @@
 
 ---
 ### 💻 Workspace Spec
- <img width="77" height="39" src="https://img.shields.io/badge/AMD-RYZEN-3-red" alt="external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-shadow-tal-revivo"/> <img width="77" height="39" src="https://img.shields.io/badge/AMD-RADEON-drakgreen" alt="nvidia"/>
+ <img width="77" height="39" src="https://img.shields.io/badge/AMD-RYZEN_3-red" alt="external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-shadow-tal-revivo"/> <img width="77" height="39" src="https://img.shields.io/badge/AMD-RADEON-drakgreen" alt="nvidia"/>
 
 
 <picture>
